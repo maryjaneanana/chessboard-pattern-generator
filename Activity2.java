@@ -1,8 +1,8 @@
-package Activity2;
+package chessboard.pattern.generator;
 
 import java.util.Scanner;
 
-public class Activity2 {
+public class Chessboard {
 public static void main(String[] args) {
 char[][] chessboard = new char[8][8];
 
